@@ -15,7 +15,7 @@ func main() {
 	var rootCmd = &cobra.Command{
 		Use:   "qbt",
 		Short: "Manage Qbittorrent with cli",
-		Long: `Managa Qbittorrent from command line.
+		Long: `Manage Qbittorrent from command line.
 
 Documentation is available at http://github.com/ludviglundgren/qbittorrent-cli`,
 	}
